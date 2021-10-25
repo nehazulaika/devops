@@ -2,3 +2,5 @@ This is the sample text file
 this is the second line
 
 hello, welcome back
+this is the demo master page
+hello
